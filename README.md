@@ -180,26 +180,11 @@ SUCCESS         FAILED        REJECTED
 
 ---
 
-## 🧪 How to Run
-
-```bash
-npm install
-npm run dev
-```
-
-Open:
-
-```
-http://localhost:3000
-```
-
----
-
 ## 🔗 Links
 
-- 🚀 Live Demo: YOUR_DEPLOYED_LINK  
-- 📂 GitHub Repo: YOUR_GITHUB_LINK  
-- 🔍 Explorer Example: YOUR_TX_LINK  
+- 🚀 Live Demo: https://nexus-shield-2.vercel.app/  
+- 📂 GitHub Repo: https://github.com/sylvia-barick/nexus_shield_2  
+- 🔍 Explorer Example: https://stellar.expert/explorer/testnet
 
 ---
 
@@ -239,4 +224,4 @@ This project fully satisfies **Level 2 (Yellow Belt)** requirements.
 
 ---
 
-✨ Built for Stellar ecosystem
+
