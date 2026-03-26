@@ -202,15 +202,6 @@ SUCCESS         FAILED        REJECTED
 
 ---
 
-## 💡 Future Improvements
-
-- Event-based updates (instead of polling)  
-- Contract read functions  
-- Dashboard with transaction history  
-- Performance optimization  
-
----
-
 ## 🏁 Conclusion
 
 Nexus-Shield demonstrates a complete **blockchain-integrated workflow** using Stellar:
@@ -219,8 +210,6 @@ Nexus-Shield demonstrates a complete **blockchain-integrated workflow** using St
 - Smart contract execution  
 - Real-time transaction tracking  
 - Strong error handling  
-
-This project fully satisfies **Level 2 (Yellow Belt)** requirements.
 
 ---
 
